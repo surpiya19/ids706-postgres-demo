@@ -51,6 +51,8 @@ fig = px.bar(
     labels={"avg_cost": "Average Cost", "cuisine": "Cuisine"},
 )
 
+fig.write_image("avg_cost_by_cuisine.png")
+
 # Save the plot as HTML file (just to make it interactive)
 fig.write_html("avg_cost_by_cuisine.html")
 

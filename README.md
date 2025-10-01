@@ -10,5 +10,3 @@
 
 **4. How many restaurants are there per cuisine, highest count first?**
 ![alt text](<Screenshot 2025-10-01 at 3.59.02 PM.png>)
-
-#### Visualization:
